@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">Hello World V2</string>
-    <string name="hello_world">Hello Android World!</string>
+
+    <string name="hello_world">Ola </string>
+    <string name="nome">Ruben Zhang!</string>
+    <string name="textview2">A minha primeira app android!</string>
+
+    <string name="nameHint">Nome</string>
+    <string name="nameBtn">Selecionar</string>
+
+    <string name="langBtn">PT</string>
+
+
+
     <string name="activity_oncreate_msg">Activity %1$s onCreate</string>
 </resources>
